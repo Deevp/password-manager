@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 passwords.json
+.DS_Store
